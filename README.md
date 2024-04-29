@@ -11,3 +11,6 @@ Features:
 
 How to Use:
 
+- Download the task2 folder
+- open it on your favourite editor
+-   
