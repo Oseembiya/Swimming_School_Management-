@@ -13,4 +13,14 @@ How to Use:
 
 - Download the task2 folder
 - open it on your favourite editor
--   
+- go to the file SwimSchool and run it, and Voila! it's running.
+
+Syllabus
+• Review of procedural programming
+• Introduction to objects and classes
+• Object principles and encapsulation
+• Object relationships: inheritance, composition, association
+• Abstraction and polymorphism
+• Introductory design patterns (Façade, Observer)
+• Core architectural patterns (MVC, Layering)
+• Introduction to testing s
