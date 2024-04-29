@@ -3,10 +3,11 @@ The swim school operates on three weekday evenings (Monday, Wednesday, and Frida
 
 Features:
 - View Swim Lesson Details
-- View Instructor
+- View Instructor Schedule 
 - Add New Swim Student
 - Award Swim qualification
 - Move Swim Student To the Waitlist
 
 
-How to Use 
+How to Use:
+
